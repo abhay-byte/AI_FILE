@@ -1,6 +1,6 @@
-# AI Unit 2: Knowledge Representation & Reasoning Practical File
+# AI Practical File: Knowledge Representation & Reasoning Practical File
 
-This repository contains the practical exercises for Unit 2 of an Artificial Intelligence (AI) course, focusing on Knowledge Representation and Reasoning (KR&R). The experiments cover various topics including First-Order Logic (FOL), Prolog programming, planning, search algorithms, and basic Natural Language Processing (NLP) techniques using Python's NLTK library.
+This repository contains the practical exercises of an Artificial Intelligence (AI) course, focusing on Knowledge Representation and Reasoning (KR&R). The experiments cover various topics including First-Order Logic (FOL), Prolog programming, planning, search algorithms, and basic Natural Language Processing (NLP) techniques using Python's NLTK library.
 
 The code is implemented primarily in **Prolog** and **Python**.
 
