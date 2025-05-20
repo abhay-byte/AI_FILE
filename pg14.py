@@ -10,7 +10,7 @@ def fs(sen):
 
 td = []
 
-with open("td.txt", "r") as f:
+with open("training_data.txt", "r") as f:
     for line in f:
         parts = line.strip().rsplit(" ", 1)  # Split only at the last space
         if len(parts) == 2 and parts[1] in ["positive", "negative"]:
